@@ -1,5 +1,5 @@
 # matrix
-Rules of engagement:
+##Rules of engagement:
 Coding exercise
 *	Pick a development environment
 *	Write some code to solve the exercise
