@@ -3,6 +3,7 @@
 Coding exercise
 *	Pick a development environment
 *	Write some code to solve the exercise
+
 Team review
 *	For each example we’ll spend 5 minutes to 
   *	See a demo of the code running
