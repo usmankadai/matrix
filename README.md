@@ -1,13 +1,13 @@
 # matrix
 Rules of engagement:
 Coding exercise
-•	Pick a development environment
-•	Write some code to solve the exercise
+*	Pick a development environment
+*	Write some code to solve the exercise
 Team review
-•	For each example we’ll spend 5 minutes to 
-o	See a demo of the code running
-o	Have a look at the source code
-o	Highlight pros and cons of the selected approach
+*	For each example we’ll spend 5 minutes to 
+  *	See a demo of the code running
+  *	Have a look at the source code
+  *	Highlight pros and cons of the selected approach
 •	Fill in the skill matrix
 o	Select the coding example for the next session
 This week’s task
